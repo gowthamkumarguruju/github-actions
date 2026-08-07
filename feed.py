@@ -16,7 +16,7 @@ def build_feed(yaml_data):
         'rss',
         {
             'version': '2.0',
-            'xmlns:tunes': 'https://www.itunes.com/dtds/podcast-1.0.dtd',
+            'xmlns:itunes': 'https://www.itunes.com/dtds/podcast-1.0.dtd',
             'xmlns:content': 'http://purl.org/rss/1.0/modules/content/',
         },
     )
