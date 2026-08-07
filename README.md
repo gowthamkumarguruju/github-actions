@@ -1,3 +1,3 @@
 # github-actions
 
-Test Github Actions test
+Test Github Actions
