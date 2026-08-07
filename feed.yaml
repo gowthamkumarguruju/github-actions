@@ -1,0 +1,26 @@
+title: "The future is tech"
+subtitle: "A podcast about the future of technology"
+author: "John Doe"
+description: "A podcast that explores the latest trends and innovations in technology, featuring interviews with industry experts"
+image: "https://example.com/podcast-image.jpg"
+language: "en-us"
+link_prefix: "https://gowthamkumarguruju.github.io/github-actions"
+category: "Technology"
+
+items:
+  - title: "Episode 1: The Rise of AI"
+    description: "In this episode, we discuss the rise of artificial intelligence and its impact on various industries."
+    link: "episode-1"
+    pubDate: "Mon, 01 Jan 2024 10:00:00 GMT"
+    author: "John Doe"
+    duration: "00:30:00"
+    length: 1800
+    type: "audio/mpeg"
+  - title: "Episode 2: The Future of Blockchain"
+    description: "In this episode, we explore the future of blockchain technology and its potential applications."
+    link: "episode-2"
+    pubDate: "Mon, 08 Jan 2024 10:00:00 GMT"
+    author: "John Doe"
+    duration: "00:35:00"
+    length: 2100
+    type: "audio/mpeg"
